@@ -1,0 +1,13 @@
+# 批处理必须是 CRLF，否则 cmd.exe 会把多行 if/for 结构解析碎
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+*.ps1  text eol=crlf
+
+# 词典按原样存取（含 \r \n 转义，任何换行转换都可能破坏条目）
+*.tsv  -text
+
+# 二进制
+*.dll  binary
+*.exe  binary
+*.png  binary
+*.lib  binary

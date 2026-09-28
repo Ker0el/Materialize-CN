@@ -1,0 +1,290 @@
+# Materialize 1.78 runtime dictionary  (english<TAB>chinese)
+# \n \r \t \\ are unescaped by the loader; matching is exact and case-sensitive.
+ Diffuse	 漫反射
+ Enable Post Process By Default	 默认启用后处理
+ Max Style	 Max 风格
+ Maya Style	 Maya 风格
+ Normal	 法线
+ Shape from Diffuse (Uncheked from Height)	 由漫反射生成形状（取消勾选则改用高度图）
+ Shape Recognition, Rotation, Spread, Bias	 形状识别、旋转、扩散、偏置
+ Use Edited Diffuse	 使用编辑后的漫反射
+ Use Original Diffuse	 使用原始漫反射
+Accept Dirs	接受目录
+Add To Favorites	添加到收藏夹
+Adjust	调整
+Adjust\r\nAlignment	调整\r\n对齐
+Alignment Reveal Slider	对齐显示滑块
+Allow Deletes	允许删除
+Ambient Occlusion	环境光遮蔽
+Ambient Occlusion Power	环境光遮蔽强度
+Angular Intensity	角度强度
+Angularity Amount	棱角程度
+AO + Edge	AO + 边缘
+AO Bias	AO 偏置
+AO Map	AO 贴图
+AO pixel Spread	AO 像素扩散
+AO Power	AO 强度
+Are You Sure?	确定吗？
+Authenticaion data corrupt.  Click next to re-enter your email and key.	授权数据已损坏。点击「下一步」重新输入邮箱和密钥。
+Authenticaion failed.  That shouldn't happen...  You must have done something wrong, try it again.	验证失败。这本不该发生……可能是操作有误，请重试。
+Authenticaion key is incorrect.  Click next to re-enter your email and key.	授权密钥不正确。点击「下一步」重新输入邮箱和密钥。
+Authenticate	验证
+Authenticating...	正在验证……
+Authentication	授权验证
+Authentication Key:	授权密钥：
+Average Color Blur Size	平均色模糊半径
+Backup Project	备份工程
+Base Smoothness	基础光滑度
+Blend Normal AO and Depth AO	混合法线 AO 与深度 AO
+Bloom Amount	泛光强度
+Bloom Threshold	泛光阈值
+Blue None	蓝 无
+Blur Size	模糊半径
+C	复制
+Cancel	取消
+Choose Music	选择音乐
+Clear	清除
+Clear All\r\nTexture Maps	清除全部\r\n贴图
+Close	关闭
+Confirm	确认
+Continue	继续
+Controls	操作说明
+Cracks	裂纹
+Create	创建
+Create New Folder	新建文件夹
+Crevice Amount	缝隙强度
+Crisp	锐利
+Cube	立方体
+Cylinder	圆柱体
+Dark Spot Removal	暗斑去除
+Default	默认
+Desktop	桌面
+Details	细节
+Diffuse Map	漫反射贴图
+Diffuse Reveal Slider	漫反射显示滑块
+Displace	置换
+DOF Focal Depth	景深对焦深度
+DOF Max Blur	景深最大模糊
+DOF Max Distance	景深最大距离
+Drives	驱动器
+Edge	边缘
+Edge Amount	边缘强度
+Edge Falloff	边缘衰减
+Edge from Normal	由法线生成边缘
+Edge Map	边缘贴图
+Edit	编辑
+Edit Diffuse	编辑漫反射
+Email:	邮箱：
+Enable Post Process	启用后处理
+Enter your email and key below.	请在下方输入邮箱和密钥。
+Error	错误
+Explore Dirs	浏览目录
+Favorites	收藏夹
+File Browser	文件浏览器
+File Format	文件格式
+File Masks: 	文件掩码： 
+Filename: 	文件名： 
+Final Bias	最终偏置
+Final Contrast	最终对比度
+Final Gain	最终增益
+Flip Normal Y	翻转法线 Y
+Frequency Contrast Equalizer	频率对比度均衡器
+Frequency Equalizer	频率均衡器
+Frequency Weight Equalizer	频率权重均衡器
+Full Material	完整材质
+Full Screen	全屏
+Funky	夸张
+Got a suggestion?  Send it to us!	有建议？发给我们！
+Green None	绿 无
+Height	高度
+Height From Diffuse	由漫反射生成高度
+Height Map	高度图
+Height Reveal Slider	高度显示滑块
+Hide Extensions	隐藏扩展名
+Hide Gui	隐藏界面
+High	高
+High Pass Blur Size	高通模糊半径
+High Pass Overlay	高通叠加
+Hot Spot Removal	亮斑去除
+Hue	色相
+Info	信息
+Intensity	强度
+Isolate Mask	隔离遮罩
+Keep Original Color	保留原始颜色
+Lens Dirt Amount	镜头污渍强度
+Lens Distort Correction	镜头畸变校正
+Lens Flare Amount	镜头光晕强度
+Light Color	光照颜色
+Light Mask Power	光照遮罩强度
+Load	载入
+Load Project	载入工程
+Low	低
+Lum	亮度
+Make A Suggestion!	提出建议！
+Make Suggestion	提交建议
+Map for Channel	通道对应贴图
+Metal Smoothness	金属光滑度
+Metalic Reveal Slider	金属度显示滑块
+Metallic	金属度
+Metallic From Diffuse	由漫反射生成金属度
+Metallic Map	金属度贴图
+Metallic Multiplier	金属度倍数
+Middle Mouse Button	鼠标中键
+Middle Mouse Button + B	鼠标中键 + B
+Middle Mouse Button + L	鼠标中键 + L
+Mids	中间调
+Mouse Scroll Wheel	鼠标滚轮
+Move Model	移动模型
+My Docs	我的文档
+My Pics	我的图片
+Natural	自然
+New Texture Size X	新贴图宽度 X
+New Texture Size Y	新贴图高度 Y
+Next	下一步
+Next\r\nCube Map	下一张\r\n立方体贴图
+No	否
+No authentication found.  Click next to enter your email and key.	未找到授权信息。点击「下一步」输入邮箱和密钥。
+No entries	（空）
+None	无
+Normal + Depth to AO	法线 + 深度转 AO
+Normal From Height	由高度生成法线
+Normal Map	法线贴图
+Normal Map Style	法线贴图风格
+Normal Reveal Slider	法线显示滑块
+Nothing to preview	无可预览内容
+O	打开
+Offset:	偏移：
+Ok	确定
+Open	打开
+Open AO Map	打开 AO 贴图
+Open Diffuse Map	打开漫反射贴图
+Open Edge Map	打开边缘贴图
+Open Folder	打开文件夹
+Open Height Map	打开高度图
+Open Metallic Map	打开金属度贴图
+Open Normal Map	打开法线贴图
+Open Smoothness Map	打开光滑度贴图
+Original Diffuse	原始漫反射
+Original Diffuse Map	原始漫反射贴图
+Overlap X	重叠 X
+Overlap Y	重叠 Y
+Overlay Blur Contrast	叠加模糊对比度
+Overlay Blur Size	叠加模糊半径
+P	粘贴
+Paralax Displacement	视差置换
+Paste Directory	粘贴目录
+Paste Key	粘贴密钥
+Perspective Correction X	透视校正 X
+Perspective Correction Y	透视校正 Y
+Pick a texture for the Floor	为地面选择贴图
+Pick a texture for the Objects	为物体选择贴图
+Pick a texture for the Walls	为墙壁选择贴图
+Pick an audio file for the scene's music	为场景音乐选择音频文件
+Pick Color	拾取颜色
+Pillow	膨胀
+Pinch	收缩
+Pixel Depth	像素深度
+Plane	平面
+Post Process	后处理
+Pre Contrast	预对比度
+Presets	预设
+Preview	预览
+Preview Map	预览贴图
+Property Map	属性贴图
+Quick Save	快速保存
+Quick Save\r\nProperty Map	快速保存\r\n属性贴图
+Quit	退出
+Red None	红 无
+Remove Light	去除光照
+Remove Shadow	去除阴影
+Reset Points	重置控制点
+Right Mouse Button	鼠标右键
+Rotate Background	旋转背景
+Rotate Light	旋转光照
+Rotate Model	旋转模型
+S	保存
+Sample Blend	采样混合
+Sample Blur Size	采样模糊半径
+Sample Spread	采样扩散
+Sample Spread Boost	采样扩散增强
+Sat	饱和度
+Saturation	饱和度
+Save	保存
+Save\r\nProperty Map	保存\r\n属性贴图
+Save and Close	保存并关闭
+Save AO Map	保存 AO 贴图
+Save Diffuse Map	保存漫反射贴图
+Save Edge Map	保存边缘贴图
+Save Height Map	保存高度图
+Save Metallic Map	保存金属度贴图
+Save Normal Map	保存法线贴图
+Save Project	保存工程
+Save Property Map	保存属性贴图
+Save Smoothness Map	保存光滑度贴图
+Saving Options	保存选项
+Scales:	缩放：
+Select	选择
+Send	发送
+Sending....	发送中……
+Set All Maps	设置全部贴图
+Set as AO Map	设为 AO 贴图
+Set as Diffuse	设为漫反射
+Set as Edge Map	设为边缘贴图
+Set as Height Map	设为高度图
+Set as Metallic	设为金属度
+Set as Normal Map	设为法线图
+Set as Smoothness	设为光滑度
+Set Default File Format	设置默认文件格式
+Set Default Property Map Channels	设置默认属性贴图通道
+Set Maps	设置贴图
+Setting and Preferences	设置与首选项
+Settings	设置
+Shadow Mask Power	阴影遮罩强度
+Show Full\r\nMaterial	显示完整\r\n材质
+Show Gui	显示界面
+Show Places	显示位置栏
+Show Text Input	显示文本输入框
+Skin:	皮肤：
+Smooth	平滑
+Smoothness	光滑度
+Smoothness From Diffuse	由漫反射生成光滑度
+Smoothness Map	光滑度贴图
+Smoothness Multiplier	光滑度倍数
+Smoothness Reveal Slider	光滑度显示滑块
+Soft	柔和
+Something went wrong!	出错了！
+Sphere	球体
+Splat Random Rotation	Splat 随机旋转
+Splat Randomize	Splat 随机化
+Splat Rotation	Splat 旋转
+Splat Scale	Splat 缩放
+Splat Wooble Amount	Splat 抖动强度
+Technique Overlap	方式：重叠
+Technique Splat	方式：Splat
+Texture Alignment Adjuster	贴图对齐调整器
+Texture Offset X	贴图偏移 X
+Texture Offset Y	贴图偏移 Y
+Texture Tiling	贴图平铺
+Texture Tiling X	贴图平铺 X
+Texture Tiling Y	贴图平铺 Y
+Textures	贴图
+Thanks!  I'll get right on that!	谢谢！我们会尽快处理！
+The Materialize beta is closed.  Check www.boundingboxsoftware.com to get your copy today!	Materialize 测试版已结束。请访问 www.boundingboxsoftware.com 获取正式版！
+There is no account for the email you entered.  Go to www.boundingboxsoftware.com/materialize/ to set up your account. Then click next to enter your email and key.	该邮箱没有对应账号。请到 www.boundingboxsoftware.com/materialize/ 注册账号，然后点击「下一步」输入邮箱和密钥。
+Tight	紧凑
+Tile\r\nMaps	平铺\r\n贴图
+Tiling Test Variables	平铺测试参数
+Tiling Texture Maker	平铺贴图生成器
+Try Again	重试
+Unity Default	Unity 默认
+Update	更新
+Use Auto Focus	使用自动对焦
+Use Color Sample 1	使用颜色采样 1
+Use Color Sample 2	使用颜色采样 2
+Vignette Amount	暗角强度
+Windowed	窗口模式
+Yes	是
+You are trying to run Materialize from a different machine too soon after your last session.	您尝试在上一台机器使用后过短时间内，于另一台机器上运行 Materialize。
+Your trial period has ended.\r\nGo to www.boundingboxsoftware.com/materialize/ to purchase a license!	试用期已结束。\r\n请访问 www.boundingboxsoftware.com/materialize/ 购买授权！
+Your version of Materialize is out of date. Click below to update to the latest version.	当前 Materialize 版本已过时。点击下方按钮更新到最新版本。
+Zoom In/Out	缩放

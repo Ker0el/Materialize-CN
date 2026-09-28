@@ -1,0 +1,47 @@
+﻿Materialize 1.78 星空汉化 —— 安装说明
+════════════════════════════════════════════════════════
+
+  B 站：https://space.bilibili.com/177308205
+
+【怎么装】
+  1. 把本文件夹里的东西复制到 Materialize 的安装目录
+     （就是有 Materialize.exe 的那个文件夹）
+  2. 双击 安装.bat
+
+  也可以直接把安装目录当参数传进去：
+     安装.bat "D:\路径\Materialize_1.78"
+
+【怎么用】
+  装完直接双击 Materialize.exe 就行，界面自动是中文，不需要额外启动器。
+
+  中英切换有三种方式，任选：
+    · 托盘图标左键点一下
+    · 托盘图标右键 → 菜单里选「中文 / English」
+    · 按热键 Ctrl+Alt+Z
+
+  热键和托盘图标都可以在 _hanhua\hook.ini 里改或关掉。
+
+【怎么卸】
+  双击 卸载.bat，界面立刻恢复英文。
+
+【装了什么】
+  只新增文件，Materialize 自身文件一个字节都没动：
+
+    winhttp.dll        汉化组件（转发 + Hook）
+    winhttp_orig.dll   系统 winhttp.dll 的备份
+    _hanhua\            词典、配置、日志
+
+【想改翻译】
+  打开 _hanhua\dict.tsv，每行「英文<TAB>中文」，改完保存即生效，不用重启。
+
+【出问题了】
+  · 界面没变中文 → 看 _hanhua\logs\hook.log，末尾会写明哪一步失败
+  · 想找没翻译到的地方 → 把 hook.ini 里的 log_miss 设为 1，
+    正常用一遍软件，_hanhua\logs\miss.log 里就是所有漏掉的原文
+  · 想让界面先回到英文排查 → 按 Ctrl+Alt+Z，或者删掉 winhttp.dll
+
+【注意】
+  Materialize 是 Bounding Box Software 的软件，本汉化只改运行时显示，
+  不修改也不分发原程序。
+
+════════════════════════════════════════════════════════

@@ -1,0 +1,31 @@
+# ── 运行时产生的东西，不入库 ────────────────────────────────
+# 注：仓库根目录的 winhttp.dll 是汉化组件本体，要入库；
+#     下面排除的是安装后复制到 game/ 里的那一份。
+game/winhttp.dll
+game/winhttp_orig.dll
+game/_hanhua/
+game/settings.txt
+game/favorites.txt
+game/authenticate.txt
+
+_hanhua/logs/
+_hanhua/dict/
+_hanhua/test/
+
+# ── 系统文件，不能分发（安装时从用户自己的系统复制）──────────
+winhttp_orig.dll
+src/winhttp_orig.dll
+src/winhttp_orig.lib
+
+# ── 构建中间产物 ───────────────────────────────────────────
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# ── 杂项 ───────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
