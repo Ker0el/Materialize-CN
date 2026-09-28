@@ -24,6 +24,9 @@ src/winhttp_orig.lib
 *.pdb
 *.ilk
 
+# ── 安装包产物（走 GitHub Releases 分发，不入库）─────────────
+installer/output/
+
 # ── 杂项 ───────────────────────────────────────────────────
 Thumbs.db
 desktop.ini

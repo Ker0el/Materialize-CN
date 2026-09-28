@@ -1,0 +1,61 @@
+﻿安装前必读 · Materialize 1.78 星空汉化版
+════════════════════════════════════════════════════════
+
+  主页 / 反馈：https://space.bilibili.com/177308205
+  开源仓库：  https://github.com/Ker0el/Materialize-CN
+
+
+【这是什么】
+
+  Materialize —— Bounding Box Software 出品的贴图制作工具，
+  把一张照片转成法线 / 高度 / 金属度 / 光滑度 / AO / 边缘等 PBR 材质贴图。
+
+  本安装包 = 原版程序 + 简体中文汉化。
+
+
+【装完就能用】
+
+  安装完成后直接启动就是中文界面，不需要额外的启动器。
+
+  中英切换有三种方式，任选：
+    · 程序内：点右上角「隐藏界面」下方的按钮
+    · 托盘图标：左键点一下切换，右键出菜单
+    · 热键：Ctrl + Alt + Z
+
+
+【关于原程序】
+
+  原程序 Materialize 由 Bounding Box Software 开发，
+  以 GNU General Public License v3.0 发布，
+  源码：https://github.com/BoundingBoxSoftware/Materialize
+
+  本安装包里的原程序文件为官方便携版，未作任何修改。
+  完整协议见安装目录下的 LICENSE，来源与改动声明见 NOTICE.md。
+
+
+【汉化是怎么做的】
+
+  汉化不改动原程序任何文件 —— Materialize.exe、UnityPlayer.dll、
+  Assembly-CSharp.dll 都与官方原版逐字节一致。
+
+  原理是在运行时把显示文本替换掉（代理 winhttp.dll 接入 Mono 运行时，
+  钩住 Unity IMGUI 的渲染出口）。
+  卸载后界面立即恢复英文，不留痕迹。
+
+
+【想自己改翻译】
+
+  用记事本打开安装目录下 _hanhua\dict.tsv，
+  每行「英文<TAB>中文」，改完保存即生效，不用重启。
+
+  （TAB 是制表符：英文和中文之间必须是一个制表符，不能是空格）
+
+
+【卸载】
+
+  开始菜单 → 星空汉化 → 卸载，或在「设置 → 应用」里卸载。
+
+
+════════════════════════════════════════════════════════
+  星空汉化 · https://space.bilibili.com/177308205
+════════════════════════════════════════════════════════
